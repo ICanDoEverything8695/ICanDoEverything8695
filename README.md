@@ -1,4 +1,4 @@
-## <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" /> Welcome 🎉 to my profile.
+## <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" /> Welcome 🎉 to profile of our team.
 
 ### We are Django/Python, Laravel/PHP, React.js/Redux/Next.js, Vue.js/Nuxt.js, Flutter, Blockchain Ninjas
 #### ABOUT US
