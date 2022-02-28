@@ -1,13 +1,13 @@
-## <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" /> Welcome 🎉 to profile of our team.
+## <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" /> Welcome 🎉 to my profile.
 
-### We are Django/Python, Laravel/PHP, React.js/Redux/Next.js, Vue.js/Nuxt.js, Flutter, Blockchain Ninjas
+### I am Django/Python, Laravel/PHP, Java/Spring, React.js/Redux/Next.js, Vue.js/Nuxt.js, Flutter, Blockchain Ninja
 #### ABOUT US
 
-- 🚀 We respect and understand your needs, our goal is to give you 100% satisfaction.
-- 👍 Always, we will achieve effectiveness, high quality, and fastest delivery, maintenance.
-- 👨‍🎓 We strive to make today better than yesterday, we value self-development and continuous improvement.
+- 🚀 I respect and understand your needs, our goal is to give you 100% satisfaction.
+- 👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
+- 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
 - 😃 Have a Project in your Mind?
-- ✨ We will implement your great ideas to be live perfectly.
+- ✨ I will implement your great ideas to be live perfectly.
 
 #### OUR STACKS
 - Python, Django
