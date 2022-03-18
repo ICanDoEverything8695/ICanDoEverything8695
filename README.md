@@ -9,7 +9,7 @@
 - 😃 Have a Project in your Mind?
 - ✨ I will implement your great ideas to be live perfectly.
 
-#### OUR STACKS
+#### MY STACKS
 - Python, Django
 - PHP, Laravel, CodeIgniter
 - Nodejs, Expressjs, Sequelize, Mongoose
