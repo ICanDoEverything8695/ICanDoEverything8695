@@ -1,6 +1,6 @@
 ## <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" /> Welcome 🎉 to my profile.
 
-### I am Django/Python, Laravel/PHP, Java/Spring, React.js/Redux/Next.js, Vue.js/Nuxt.js, Flutter, Blockchain Ninja
+### I am Laravel/PHP, Java/Spring, Node.js, React.js/Redux/Next.js, Vue.js/Nuxt.js Ninja
 #### ABOUT US
 
 - 🚀 I respect and understand your needs, our goal is to give you 100% satisfaction.
@@ -10,24 +10,21 @@
 - ✨ I will implement your great ideas to be live perfectly.
 
 #### MY STACKS
-- Python, Django
 - PHP, Laravel, CodeIgniter
 - Nodejs, Expressjs, Sequelize, Mongoose
 - HTML5, jQuery, CSS, SCSS, Bootstrap, TailwindCSS, Material UI
-- Reactjs, Nextjs, Gatsby, Redux & toolkit
+- Reactjs, Nextjs, Redux & toolkit
 - Vuejs, Nuxtjs, Vuex, Vuetify, Vuepress
 - Angularjs, Angular, Typescript
-- Blockchain, Smart Contract, Cryptocurrency, NFT
 - MSSQL, MySQL, PostgreSQL
 - MongoDB
 - GraphQL
-- Drupal
 - C#, ASP.NET, .NET Core
-- Git, Docker, Heroku, AWS
+- Git, Docker, Heroku, Vercel, AWS
 - Template, Theme and Script customization
 - Payment gateway, Google and so on APIs integration
 - AWS services such as AWS serverless Lambda, AWS EC2, AWS S3, etc
-- ERP, CRM, Ecommerce, Marketplace, Ba2B, B2C, SEO
+- ERP, CRM, Ecommerce, SEO
 
 <table><tr><td valign="top" width="100%">
 <div align="center">
