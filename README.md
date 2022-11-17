@@ -1,6 +1,6 @@
 ## <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" /> Welcome 🎉 to my profile.
 
-### I am a Senior Full-Stack Enginner with over 12 years of experience in Laravel/PHP, Java/Spring, Node.js/Express.js/Nest.js, React.js/Redux/Next.js, Angular, Vue.js/Nuxt.js.
+### <div align="center">I'm a full-time full-stack senior engineer 👨‍💻 working remotely since 2010 🚀</div>
 #### ABOUT ME
 
 - 🚀 I respect and understand your needs, my goal is to give you 100% satisfaction.
