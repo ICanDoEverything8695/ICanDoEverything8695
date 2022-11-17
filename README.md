@@ -11,17 +11,18 @@
 
 #### MY STACKS
 - Java, Spring MVC, Spring Boot
-- PHP, Laravel, CodeIgniter
+- PHP, Laravel, Yii2, CodeIgniter
 - Nodejs, Expressjs, NestJS, Sequelize
-- HTML5, CSS3, SCSS, Bootstrap, TailwindCSS, Material UI, jQuery
+- HTML5, CSS3, SCSS, LESS, Bootstrap, TailwindCSS, Material UI, jQuery
 - React.js, Next.js, Redux & toolkit
 - Vue.js, Nuxt.js, Vuex, Vuetify, Vuepress
-- Angular, Typescript
-- MySQL, PostgreSQL
+- Angular, JavaScript (ES6), Typescript
+- MySQL, MariaDB, PostgreSQL
 - MongoDB
 - RESTful / GraphQL API
-- Git, GitHub, Docker, Heroku, Vercel
-- AWS, GCP, Microsoft Azure
+- Git, GitHub, Gitlab, Heroku, Netlify, Vercel
+- Docker, Kubernetes
+- AWS, GCP, Firebase, Microsoft Azure
 - Template, Theme and Script customization
 - Payment gateway, Google and so on APIs integration
 - AWS services such as AWS EC2, AWS serverless Lambda, AWS S3, etc
