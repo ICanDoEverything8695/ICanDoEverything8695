@@ -1,35 +1,38 @@
 ## <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" /> Welcome 🎉 to my profile.
 
-### I am Laravel/PHP, Java/Spring, Node.js, React.js/Redux/Next.js, Vue.js/Nuxt.js Ninja
-#### ABOUT US
+### I am a Senior Full-Stack Enginner with over 12 years of experience in Laravel/PHP, Java/Spring, Node.js/Express.js/Nest.js, React.js/Redux/Next.js, Angular, Vue.js/Nuxt.js.
+#### ABOUT ME
 
-- 🚀 I respect and understand your needs, our goal is to give you 100% satisfaction.
+- 🚀 I respect and understand your needs, my goal is to give you 100% satisfaction.
 - 👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
 - 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
 - 😃 Have a Project in your Mind?
 - ✨ I will implement your great ideas to be live perfectly.
 
 #### MY STACKS
+- Java, Spring MVC, Spring Boot
 - PHP, Laravel, CodeIgniter
-- Nodejs, Expressjs, Sequelize, Mongoose
-- HTML5, jQuery, CSS, SCSS, Bootstrap, TailwindCSS, Material UI
-- Reactjs, Nextjs, Redux & toolkit
-- Vuejs, Nuxtjs, Vuex, Vuetify, Vuepress
-- Angularjs, Angular, Typescript
-- MSSQL, MySQL, PostgreSQL
+- Nodejs, Expressjs, NestJS, Sequelize
+- HTML5, CSS3, SCSS, Bootstrap, TailwindCSS, Material UI, jQuery
+- React.js, Next.js, Redux & toolkit
+- Vue.js, Nuxt.js, Vuex, Vuetify, Vuepress
+- Angular, Typescript
+- MySQL, PostgreSQL
 - MongoDB
-- GraphQL
-- C#, ASP.NET, .NET Core
-- Git, Docker, Heroku, Vercel, AWS
+- RESTful / GraphQL API
+- Git, GitHub, Docker, Heroku, Vercel
+- AWS, GCP, Microsoft Azure
 - Template, Theme and Script customization
 - Payment gateway, Google and so on APIs integration
-- AWS services such as AWS serverless Lambda, AWS EC2, AWS S3, etc
+- AWS services such as AWS EC2, AWS serverless Lambda, AWS S3, etc
 - ERP, CRM, Ecommerce, SEO
 
 <table><tr><td valign="top" width="100%">
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />   -->
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
