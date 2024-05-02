@@ -1,6 +1,6 @@
 ## <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" /> Welcome 🎉 to my profile.
 
-### <div align="center">I'm a full-time full-stack senior engineer 👨‍💻 working remotely since 2010 🚀</div>
+### <div align="center">I'm a full-time full-stack senior engineer 👨‍💻</div>
 #### ABOUT ME
 
 - 🚀 I respect and understand your needs, my goal is to give you 100% satisfaction.
@@ -10,8 +10,6 @@
 - ✨ I will implement your great ideas to be live perfectly.
 
 #### MY STACKS
-- Java, Spring MVC, Spring Boot
-- PHP, Laravel, Yii2, CodeIgniter
 - Nodejs, Expressjs, NestJS, Sequelize
 - HTML5, CSS3, SCSS, LESS, Bootstrap, TailwindCSS, Material UI, jQuery
 - React.js, Next.js, Redux & toolkit
@@ -62,11 +60,8 @@
 
 <h3 id="backend">Backend</h3>
 <div align="center">
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
-<a href="https://codeigniter.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>
